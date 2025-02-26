@@ -1,2 +1,2 @@
 # cameroon_projects
-Projects for Cameroon makrket
+Projects for Cameroon market
